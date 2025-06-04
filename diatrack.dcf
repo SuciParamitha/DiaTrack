@@ -1,0 +1,10 @@
+name: diatrack
+title:
+username: aldevv
+account: aldevv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14738035
+bundleId: 10274031
+url: https://aldevv.shinyapps.io/diatrack/
+version: 1
